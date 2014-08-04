@@ -16,6 +16,7 @@
 
     <!-- Custom CSS -->
     <link href="css/agency.css" rel="stylesheet">
+    
 
     <!-- Custom Fonts -->
     <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -56,10 +57,10 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Read</a>
+                        <a class="page-scroll" href="#beginning">The Beginning</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Play</a>
+                        <a class="page-scroll" href="#albums">Albums</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#about">Figure</a>
@@ -82,7 +83,7 @@
         <div class="container">
             <div class="intro-text">
                 <div class="intro-heading">Monty Newman In The Multiverse</div>
-                <div class="intro-lead-in">A Love Story</div>
+                <div class="intro-lead-in">Your Typical Cross-dimensional Love Story</div>
                 <a href="#beginning" class="page-scroll btn btn-xl">Begin.</a>
             </div>
         </div>
@@ -95,61 +96,27 @@
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">The Beginning</h2>
                     <h3 class="section-subheading text-muted">Where-in the man is separated into infinite reflections of himself</h3>
+                    <p>I, having never believed that seeing the world simply and clearly was of any benefit to the seer, and being wholly without Earthly ambitions of power, success, etc., embarked upon a most incredible, paradigm-altering journey.
+                        If there was any tethers I still had to the machinations of this land, I was unaware. Feeling almost destined to escape the bounds of mono-dimensionalism which so clearly pervaded this plane like an epidemic, I confidently strapped the machine atop my cap.
+                        And thus I started that journey, straight skyward at first, but then also toward the east. I initially wondered why physical displacement was required in inter-dimensional expeditions, but quickly put that thought behind me, resigning then to trust in the designs of Dr. Hilthrop.
+                        Indeed, the device worked! Or, at least it seemed so to me, for within minutes I was far away from the gravitational confines of that harsh blueness we call home. However, as any school boy will tell you; space travel is implicitly uneventful, and I soon found dimensional travel is even more-so, so I pulled my parchment from my case and began to write... </p>
+                    <p>"What is the location of Heaven? If not on a map, why can't we make better maps?</p>
+                    <div> </div>
                 </div>
             </div>
-            <!--<div class="row text-center">
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">E-Commerce</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Responsive Design</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Web Security</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-            </div>-->
         </div>
     </section>
 
     <!-- Portfolio Grid Section -->
-    <section id="portfolio" class="bg-light-gray">
+    <section id="albums" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">The Beginning</h2>
-                    <h3 class="section-subheading text-muted">Where-in the man is split into infinite reflections</h3>
+                    <h2 class="section-heading">Albums</h2>
+                    <h3 class="section-subheading text-muted">Written/recorded by Christopher Manglos</h3>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/roundicons.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Round Icons</h4>
-                        <p class="text-muted">Graphic Design</p>
-                    </div>
-                </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -157,69 +124,28 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
+                        
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Startup Framework</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Monty Newman In The Multiverse</h4>
+                        <p class="text-muted">(Coming Soon) Monty Newman travels across the planes of the Multiverse, and encounters the fundamental element of the Universe</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/treehouse.png" class="img-responsive" alt="">
+                        <img src="img/mnisp-cover.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Treehouse</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Monty Newman In Spaceland</h4>
+                        <p class="text-muted">Monty Newman seeks solace in space, only to slumber into a purgatorial land</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/golden.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Golden</h4>
-                        <p class="text-muted">Website Design</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/escape.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Escape</h4>
-                        <p class="text-muted">Website Design</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/dreams.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Dreams</h4>
-                        <p class="text-muted">Website Design</p>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </section>
@@ -485,19 +411,21 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
+                            
                             <!-- Project Details Go Here -->
-                            <h2>Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive" src="img/portfolio/roundicons-free.png" alt="">
-                            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                            <p>
-                                <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
-                            <ul class="list-inline">
-                                <li>Date: July 2014</li>
-                                <li>Client: Round Icons</li>
-                                <li>Category: Graphic Design</li>
+                            <h2>Monty Newman In Spaceland</h2>
+                            <p class="item-intro text-muted">"As our hero plunges into the depths of space, he reflects upon his past." (p. 24, Monty Newman in Spaceland)</p>
+                            <p>Monty Newman In Spaceland is the first solo album by me, Christopher Manglos. It was written during a time of grief in my family's life, and was made to "bottle up" my emotions at the time. My goal was to put the feeling of that time into a "time-capsule of music", so that as I grow farther and farther away from that time, I can always remember it. Now 3 years after the fact, I can say that at least in this regard the album was/is a success.<p>
+                            <p>The album was recorded in a basement using a lot of old papertrigger equipment and a large number of instruments on loan from my Sister Guinevere. Unfortunately, though I originally had intended to return to this album and mix/master it, I have lost the files. So, this is how it stands, forever. Truly the pure time-capsule it was meant to be. Perhaps even purer than my intent.</p>
+                                <strong>
+                                    <li>Finished: July 2011</li>
+                                    <li>My Favorite Track: Dark Wood</li>
+                                </strong>
+                                <br>
+                            <p>I sincerely hope you enjoy this album, and thanks for listening!</p>
                             </ul>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            <a href="javascript:window.open('music-player.jsp','Play Monty Newman In Spaceland','width=420,height=600')" class="btn btn-primary" role="button">Listen Now</a>
+                            <br><a href="downloads/mnisp.zip">(Or, Download the Full Album)</a>
                         </div>
                     </div>
                 </div>
@@ -571,6 +499,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
+                            
                             <!-- Project Details Go Here -->
                             <h2>Project Name</h2>
                             <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
@@ -641,7 +570,7 @@
 
     <!-- jQuery Version 1.11.0 -->
     <script src="js/jquery-1.11.0.js"></script>
-
+   
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 
